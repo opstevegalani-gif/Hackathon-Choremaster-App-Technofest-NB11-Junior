@@ -1,0 +1,7 @@
+{
+  "name": "HomeSync AI",
+  "description": "An all-in-one smart household management platform featuring AI-powered chore scheduling, family collaboration, budget tracking, and meal planning.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
